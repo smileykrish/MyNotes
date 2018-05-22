@@ -1,5 +1,5 @@
 How to setup googleTest as a shared library on Linux
-
+====================================================
 
 Before you start make sure your have read and understood this note from Google! This tutorial makes using gtest easy, but may introduce nasty bugs.
 
